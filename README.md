@@ -11,8 +11,6 @@
 It's called not_n_todo after I simplified and made the words "To do and not to do" more fun. 
 > Yeah.. Lmao
 
-You may see the base version of this which is my final project in CS50P at: https://youtu.be/CdcH_jJYYF8?si=qOw4Qiios2_IOJ0S
-
 > [!IMPORTANT]
 > This was created using Python 3.12.4, and this program specifically requires you to import the CSV, os, and tabulate modules.
 > If Python or the modules are not installed yet, make sure you have Python in your device; and run this in the terminal one by one:
